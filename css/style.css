@@ -578,7 +578,8 @@ body:after {
       right: 0;
       top: 0;
       z-index: 2;
-      background: rgba(255, 255, 255, 0); }
+      background: rgba(255, 255, 255, 0);
+      }
       @media (max-width: 991.98px) {
         .site-blocks-cover.overlay:before {
           background: rgba(255, 255, 255, 0.5); } }
